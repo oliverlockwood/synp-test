@@ -1,0 +1,9 @@
+{
+  "name": "synp-test",
+  "version": "0.0.0-DEV",
+  "license": "WTFPL",
+  "description": "Library for NodeJS, to test https://github.com/imsnif/synp/issues/29",
+  "dependencies": {
+    "gc-stats": "^1.2.1"
+  }
+}
